@@ -14,4 +14,4 @@ def new_in_list(my_list, idx, elem):
     if idx < 0 or idx >= len(copy):
         return copy
     copy[idx] = elem
-    return 
+    return copy 
